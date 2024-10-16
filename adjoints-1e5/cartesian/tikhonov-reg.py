@@ -216,7 +216,7 @@ for i in range (0, 6):
 
 misfit_dt = np.array(misfit_dt)
 misfit_mu = np.array(misfit_mu)
-reg_mu = np.array(misfit_mu)
+reg_mu = np.array(reg_mu)
 
 print("Misfit DT", misfit_dt)
 print("Misfit mu", misfit_mu)
